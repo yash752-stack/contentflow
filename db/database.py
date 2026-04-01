@@ -108,7 +108,7 @@ class Comment(Base):
     replies    = relationship("Comment", backref="parent", remote_side="Comment.id")
 
 
-# ── DB DEPENDENCY ──────────────────────────────────────────────────────────
+# ── DB DEPENDENCY ─────────────────────────────────────────────────────────
 
 def get_db():
     """FastAPI dependency — yields a DB session and closes it after request."""
