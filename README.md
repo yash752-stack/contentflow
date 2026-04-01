@@ -2,7 +2,7 @@
 
 > Built specifically to demonstrate the skills required for Publive's Software Developer Intern role.
 
-A production-style headless CMS backend with an AI content assistant — the exact type of system Publive builds for 150+ digital media clients.
+A production-style headless CMS backend with an AI content assistant — the exact type of system Publive builds for 150+ digital media clients
 
 ## Tech Stack
 
